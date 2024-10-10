@@ -1,0 +1,11 @@
+﻿{
+  "application": {
+    "baseUrl": "https://www.agoda.com/"
+  },
+  "browser": {
+    "name": "CHROME",
+    "platform": "WINDOWS",
+    "mode": "LOCAL",
+    "remoteUrl": "http://localhost:4444/wd/hub"
+  }
+}
